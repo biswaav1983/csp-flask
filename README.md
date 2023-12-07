@@ -72,7 +72,7 @@ Note: For the best possible experience, run these labs on Mozilla Firefox.
 Step 1: Navigate to the CSP application
 echo http://$(serverip):8443Copy
 Step 2: In the CSP Bypass Section Enter: https://ase-csp.sfo3.digitaloceanspaces.com/index.js
-https://ase-csp.sfo3.digitaloceanspaces.com/index.jsCopy
+https://ase-csp.sfo3.digitaloceanspaces.com/index.js
 Step 3: Click on the submit button
 
 Analyzing the code
